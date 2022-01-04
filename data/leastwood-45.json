@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "`_updateXDEFIBalance` Updates May Lead To Loss Of `XDEFI` Token Distributions",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/45"
+}
