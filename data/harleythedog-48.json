@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "harleythedog",
+  "address": "0x3BD8fb2fB0b11789F8885143D6f14FA3D69f6FC9",
+  "risk": "3",
+  "title": "Unlock/Relock freezes XDEFI that hasn't been allocated with updateDistribution",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/48"
+}
