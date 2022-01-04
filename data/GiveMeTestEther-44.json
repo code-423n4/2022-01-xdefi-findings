@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "GiveMeTestEther",
+  "address": "0xd685Dd21BD58Ff6976f14C4E7F847a2Da0047965",
+  "risk": "G",
+  "title": "Custom errors from version 0.8.4 are more gas efficient",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/44"
+}
