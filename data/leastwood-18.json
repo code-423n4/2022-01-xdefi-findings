@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`_lock` Performs An Improper Check When Enforcing The `MAX_TOTAL_XDEFI_SUPPLY` Constraint",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/18"
+}
