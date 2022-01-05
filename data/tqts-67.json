@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "tqts",
+  "address": "0x5Ac56257422bF362cec13a4367F86dd0a340f79a",
+  "risk": "3",
+  "title": "Reentrancy allows attacker to lock the funds deposited in the contract",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/67"
+}
