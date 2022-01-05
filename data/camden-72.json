@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "camden",
+  "address": "0x840B1dC2abb99f1F86D549303719610F346B2aaF",
+  "risk": "2",
+  "title": "merge allows reentrancy (part two)",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/72"
+}
