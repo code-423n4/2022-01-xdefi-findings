@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "G",
+  "title": "Check  `expiry` earlier can avoid unnecessary code execution when this check failed.",
+  "issueId": 166,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/166"
+}
