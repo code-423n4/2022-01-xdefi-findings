@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "sirhashalot",
+  "address": "0x30cfB3B033dF25673b35Dc21a77329059d57a69b",
+  "risk": "G",
+  "title": "amount variables can be uint88",
+  "issueId": 178,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/178"
+}
