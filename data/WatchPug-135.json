@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Newly added rewards will get frozen when a `unlock()` transaction get in between before `updateDistribution()`",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/135"
+}
