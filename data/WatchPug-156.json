@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "Malicious early user/attacker can malfunction the contract and even freeze users' funds in edge cases",
+  "issueId": 156,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/156"
+}
