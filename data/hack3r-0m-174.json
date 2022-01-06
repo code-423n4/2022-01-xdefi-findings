@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "G",
+  "title": "Use Infinite Approval",
+  "issueId": 174,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/174"
+}
