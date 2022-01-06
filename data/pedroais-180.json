@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "1",
+  "title": "Flash loans can be used to make deposits with 0 timelock",
+  "issueId": 180,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/180"
+}
