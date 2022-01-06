@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "Rewards can be stolen by re-entering into `updateDistribution`",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/134"
+}
