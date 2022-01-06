@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "Should lock() and lockWithPermit() also call _updateXDEFIBalance()?",
+  "issueId": 153,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/153"
+}
