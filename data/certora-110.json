@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "certora",
+  "address": "0x009dA689fE16166448B0D6C0f5D2F82033A16B8A",
+  "risk": "0",
+  "title": "arrays sizes may not be matching in function \"setLockPeriods(uint256[] memory durations_, uint8[] memory multipliers)\"",
+  "issueId": 110,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/110"
+}
