@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "hack3r-0m",
+  "address": "0x825aE6fb177186e9551ab1CDd6D4aB10B22A0Dba",
+  "risk": "1",
+  "title": "stale `_pointsPerUnit` if `updateDistribution` frequently",
+  "issueId": 190,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/190"
+}
