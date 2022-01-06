@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "p4st13r4",
+  "address": "0xEFAD0017ee6bcD0F38a8e559761493aA5C433FEA",
+  "risk": "G",
+  "title": "Missing 0-address checks in `proposeOwnership`",
+  "issueId": 168,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/168"
+}
