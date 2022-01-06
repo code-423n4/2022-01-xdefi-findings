@@ -1,0 +1,9 @@
+{
+  "contest": "XDEFI contest",
+  "handle": "MaCree",
+  "address": "0xEaDB6EE14d05dfadfDa14cA60Df848E504A69118",
+  "risk": "1",
+  "title": "Can not change the ownership of the contract XDEFIDistribution",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2022-01-xdefi-findings/issues/117"
+}
